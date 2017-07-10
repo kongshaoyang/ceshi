@@ -1,0 +1,9 @@
+新建项目时的使用方法:
+git init
+git add .
+git config user.email 邮箱号
+git config user.name 用户名
+git remote add origin https://github.com/kongshaoyang/ceshi.git(地址)
+git push -u origin master
+
+口诀:初始化时将醋添加到邮箱里，给用户送到相应的地址，原来地址在仓库。
